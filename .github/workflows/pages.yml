@@ -27,12 +27,12 @@ jobs:
         uses: actions/configure-pages@v3
 
       - name: Upload files to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
         with:
           path: public
 
       - name: Publish GitHub Pages
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
 
       - name: Display GitHub Pages URL
         run: |
