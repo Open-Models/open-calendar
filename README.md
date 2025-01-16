@@ -2,6 +2,11 @@
 
 Shared calendar for events around open models and digital commons. Based on git & markdown to enable a collaborative management.
 
+See online : <https://open-models.github.io/open-calendar/>
+
+**The recommended use is to import the calendar into your personal calendar (Thunderbird, Google Calendar...) through the
+`calendar.ics` file : <https://raw.githubusercontent.com/Open-Models/open-calendar/refs/heads/main/calendar.ics>**
+
 ## Installation
 
 First, download the repository locally.
