@@ -1,8 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
 BEGIN:VEVENT
-CATEGORIES:open science,open software
+CATEGORIES:open software,open science
 DESCRIPTION:Event Website: https://os.helmholtz.de/en/events/online-seminars/70th-online-seminar/\n\nIn his talk "Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities"\, Johan Linåker will present a study\, commissioned by the European Commission\, which delves into the structural configurations and strategic utilisation of Open Source Programme Offices (OSPOs) within the public sector domain\, with a specific focus on OSPOs within European Union (EU) member states\, Norway\, Liechtenstein\, and Iceland. The investigation is based on interviews conducted with 18 OSPO representatives across 16 cases. The study classifies OSPOs into six distinct archetypes\, providing insights into their organisational structures\, responsibilities\, and contributions to the adoption of Open Source Software (OSS). It also highlights the challenges encountered by OSPOs and provides recommendations for both policymakers and practitioners.
 DTEND:20250122T140000Z
 LOCATION:https://gfz-potsdam-de.zoom-x.de/meeting/register/u5EkcO-qrTorHtNVKBBBu_n2v9ajThXc9w-G
@@ -11,12 +12,30 @@ SUMMARY:Public Sector Open Source Program Offices
 UID:5dddfd71-2bd3-4146-b6a1-d2211dab4c53@5ddd.org
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:open science,open education,open software
+CATEGORIES:open software,open science,open education
 DESCRIPTION:Site évènement: https://alposs.fr/\n\nNouvel événement de l’écosystème open source local et régional\, AlpOSS « Alpes Open Source Software » s’adresse aux éditeurs\, prestataires de services\, collectivités locales et utilisateurs d’open source au sens large. La conférence a pour but de créer du lien entre les fournisseurs de technologies open source innovantes et les utilisateurs\, d’échanger autour des modèles de collaboration et modèles d’affaires\, et de structurer et dynamiser l’écosystème local.
 DTEND:20250220T190000Z
 LOCATION:Mairie d'Échirolles & https://video.echirolles.fr/w/qg5y3eQdzGTdUp4RXh7NcX
 DTSTART:20250220T073000Z
 SUMMARY:🇫🇷 AlpOSS
 UID:53e98f03-9ee6-4015-b5c6-c1d6ffd07945@53e9.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open education
+DESCRIPTION:Event website: https://oeweek.oeglobal.org/\n\nOpen Education Week (OE Week) is an annual celebration and opportunity for those working in Open Education to actively share their achievements and learn about what others are achieving worldwide.\n\nOpen Education Week was launched in 2012 by Open Education Global as a collaborative\, community-built open forum. Every year OE Week raises awareness and highlights innovative open education successes worldwide. OE Week provides practitioners\, educators\, and students with an opportunity to build a greater understanding of open educational practices and be inspired by the wonderful work being developed by the community around the world.\n\nOE Week operates as a distributed event\; organizers provide details of their in-person or online events that are published here as a calendar with events displayed in your local date/time. It aims to make visible all of the activity happening globally in support of Open Education. While OEWeek focuses on just the first week in March\, the time frame is not a requirement. We aim to list all activities happening from January to the end of March.
+DTEND:20250307T000000Z
+LOCATION:In person and online events
+DTSTART:20250303T000000Z
+SUMMARY:Open Education Week
+UID:b58401e7-60eb-43aa-a3c3-4c10a47d0e52@b584.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open science
+DESCRIPTION:Open Access Week is an opportunity for the academic and research community to continue to learn about the potential benefits of Open Access\, to share what they’ve learned with colleagues\, and to help inspire wider participation in helping to make Open Access a new norm in scholarship and research.\n\nOpen Access to information – the free\, immediate\, online access to the results of scholarly research\, and the right to use and re-use those results as you need – has the power to transform the way research and scientific inquiry are conducted. It has direct and widespread implications for academia\, medicine\, science\, industry\, and for society as a whole.\n\nOpen Access Week is an invaluable chance to connect the global momentum toward the open sharing of knowledge with the advancement of policy changes and the importance of social issues affecting people around the world. The event is celebrated by individuals\, institutions and organizations around the world.
+DTEND:20251026T000000Z
+LOCATION:https://www.openaccessweek.org/
+DTSTART:20251020T000000Z
+SUMMARY:Open Access Week
+UID:9ea312b5-776c-4015-b40c-642c05865116@9ea3.org
 END:VEVENT
 END:VCALENDAR
