@@ -1,0 +1,3 @@
+ics
+mistune
+python-slugify

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FullCalendar with ICS.js</title>
+</head>
+<body>
+    <!-- <div id="calendar" style="max-width: 900px; margin: 50px auto;"></div> -->
+    <div id="calendar" style="max-width: 90%; margin: 50px auto;"></div>
+
+
+    <!-- Modal for event details -->
+    <div class="modal fade" id="eventModal" tabindex="-1" aria-labelledby="eventModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="eventModalLabel">Event Details</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <h6><strong>Title:</strong> <span id="modalTitle"></span></h6>
+                    <p><strong>Location:</strong> <span id="modalLocation"></span></p>
+                    <p><strong>Start:</strong> <span id="modalStart"></span></p>
+                    <p><strong>End:</strong> <span id="modalEnd"></span></p>
+                    <p><strong>Description:</strong> <span id="modalDescription"></span></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- FullCalendar JS -->
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js"></script>
+
+    <!-- Boostrap as module for FullCalendar -->
+    <link href='https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css' rel='stylesheet'>
+    <link href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css' rel='stylesheet'>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom script to generate calendar -->
+    <script type="module" src="calendar.js"></script>
+
+</body>
+</html>
