@@ -53,5 +53,3 @@ the `events` folder on the repository.
 Project in the public domain (as far as possible...), free to use, modify and share.
 
 As the use of licences remains necessary for a trusted framework (copyright laws being archaic), under a double licence using the Unlicensed and Creative Commons CC0 licences.
-
-Perhaps if the Open Source Initiative had spent more time promoting copyright reform than blindly defending their absurd Open Source Definition it would be easier.
