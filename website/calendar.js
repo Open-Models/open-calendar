@@ -2,9 +2,20 @@ import ICAL from "https://unpkg.com/ical.js/dist/ical.min.js";
 
 var ICS_FILE = "https://raw.githubusercontent.com/Open-Models/open-calendar/refs/heads/main/calendar.ics";
 
-function makeLinksClickable(text) {
-    const urlRegex = /(https?:\/\/[^\s]+)/g;
-    return text.replace(urlRegex, '<a href="$1" target="_blank">$1</a>');
+function formatModalText(text, withParagraph) {
+    if (!text) return "";
+
+    // Add a tags to text links.
+    text = text.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>');
+
+    // Add p tags to render multi paragraphs appropriatly
+    if (withParagraph) {
+        text = text
+            .split("\n\n")
+            .map(paragraph => `<p>${paragraph.trim()}</p>`)
+            .join("");
+    }
+    return text;
 }
 
 async function load_ics(){
@@ -45,8 +56,8 @@ async function generate_calendar(){
         initialView: 'dayGridMonth',
         events: icsEvents,
         eventClick: function (info) {
-            const eventLocation = makeLinksClickable(info.event.extendedProps.location);
-            const eventDescription = makeLinksClickable(info.event.extendedProps.description);
+            const eventLocation = formatModalText(info.event.extendedProps.location, false);
+            const eventDescription = formatModalText(info.event.extendedProps.description, true);
 
             // Open the modal with event details
             document.getElementById('modalTitle').textContent = info.event.title;
