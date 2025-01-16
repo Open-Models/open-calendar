@@ -53,7 +53,20 @@ async function generate_calendar(){
             document.getElementById('modalDescription').innerHTML = eventDescription;
             document.getElementById('modalLocation').innerHTML = eventLocation;
             document.getElementById('modalStart').textContent = `${info.event.start.toUTCString()}`;
-            document.getElementById('modalEnd').textContent = `${info.event.end.toUTCString()}`;
+
+            const modalEndElement = document.getElementById('modalEnd');
+
+            // Fullcalendar behavior: End date set automatically to null when equal to start date
+            // As a resulte, avoid display of end date when unavailable
+            //
+            // see: https://stackoverflow.com/questions/24596587/fullcalendar-return-event-end-null-when-allday-is-true
+            if (info.event.end) {
+                    modalEndElement.textContent = `${info.event.end.toUTCString()}`;
+                    modalEndElement.parentElement.style.display = 'block';
+            } else {
+                    modalEndElement.parentElement.style.display = 'none';
+            }
+
             // Show the modal
             const myModal = new bootstrap.Modal(document.getElementById('eventModal'));
             myModal.show();
