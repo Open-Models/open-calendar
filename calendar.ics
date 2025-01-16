@@ -21,6 +21,15 @@ SUMMARY:🇫🇷 AlpOSS
 UID:53e98f03-9ee6-4015-b5c6-c1d6ffd07945@53e9.org
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:open software
+DESCRIPTION:Event website: https://www.ow2con.org/view/2025/\n\nOW2con is the European open source conference organized by OW2. An international meeting of developpers\, IT companies\, academics and non-profit organizations\, OW2con brings together the entire open source community\, during two days of presentations ranging from tech topics to business and ethical issues of open source. It also offers a unique opportunity to establish contact with peers through friendly networking sessions. OW2con is open to all\, the event is free and all sessions are held in English.\n\nThis year we are giving the highlight on the theme of open source and responsible AI. Our aim is to lift the hood and look beyond the AI buzz: open source and commons\, data\, sovereignty\, privacy\, explainability\, legal framework\, technical stack\, funding and economy\, sustainability\, research and education\, interaction with people\, impact on work and society\, etc. How will open source contribute to this transformation?
+DTEND:20250223T000000Z
+LOCATION:Paris
+DTSTART:20250223T000000Z
+SUMMARY:End Call for Presentions for OW2 con'25
+UID:4a3ac7da-53b2-4fd7-8282-5da8d6c17bbe@4a3a.org
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:open education
 DESCRIPTION:Event website: https://oeweek.oeglobal.org/\n\nOpen Education Week (OE Week) is an annual celebration and opportunity for those working in Open Education to actively share their achievements and learn about what others are achieving worldwide.\n\nOpen Education Week was launched in 2012 by Open Education Global as a collaborative\, community-built open forum. Every year OE Week raises awareness and highlights innovative open education successes worldwide. OE Week provides practitioners\, educators\, and students with an opportunity to build a greater understanding of open educational practices and be inspired by the wonderful work being developed by the community around the world.\n\nOE Week operates as a distributed event\; organizers provide details of their in-person or online events that are published here as a calendar with events displayed in your local date/time. It aims to make visible all of the activity happening globally in support of Open Education. While OEWeek focuses on just the first week in March\, the time frame is not a requirement. We aim to list all activities happening from January to the end of March.
 DTEND:20250307T000000Z
@@ -28,6 +37,15 @@ LOCATION:In person and online events
 DTSTART:20250303T000000Z
 SUMMARY:Open Education Week
 UID:b58401e7-60eb-43aa-a3c3-4c10a47d0e52@b584.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software
+DESCRIPTION:Event website: https://www.ow2con.org/view/2025/\n\nOW2con is the European open source conference organized by OW2. An international meeting of developpers\, IT companies\, academics and non-profit organizations\, OW2con brings together the entire open source community\, during two days of presentations ranging from tech topics to business and ethical issues of open source. It also offers a unique opportunity to establish contact with peers through friendly networking sessions. OW2con is open to all\, the event is free and all sessions are held in English.\n\nThis year we are giving the highlight on the theme of open source and responsible AI. Our aim is to lift the hood and look beyond the AI buzz: open source and commons\, data\, sovereignty\, privacy\, explainability\, legal framework\, technical stack\, funding and economy\, sustainability\, research and education\, interaction with people\, impact on work and society\, etc. How will open source contribute to this transformation?
+DTEND:20250618T000000Z
+LOCATION:Paris
+DTSTART:20250617T000000Z
+SUMMARY:OW2 con'25
+UID:88ad5e0c-1c1e-4f4a-b717-44e40a5c4f8a@88ad.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:open science
