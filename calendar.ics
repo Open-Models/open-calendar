@@ -9,7 +9,16 @@ DTEND:20250122T140000Z
 LOCATION:https://gfz-potsdam-de.zoom-x.de/meeting/register/u5EkcO-qrTorHtNVKBBBu_n2v9ajThXc9w-G
 DTSTART:20250122T130000Z
 SUMMARY:Public Sector Open Source Program Offices
-UID:5dddfd71-2bd3-4146-b6a1-d2211dab4c53@5ddd.org
+UID:6cb0ffef-b19d-4e1b-b453-5df03a85f481@6cb0.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software
+DESCRIPTION:Event website: https://fosdem.org/2025/\n\nFOSDEM is a two-day event organised by volunteers to promote the widespread use of free and open source software.\n\nUsually taking place in the beautiful city of Brussels (Belgium)\, FOSDEM is widely recognised as the best such conference in Europe. What is FOSDEM?\n\nFOSDEM is a free and non-commercial event organised by the community for the community.
+DTEND:20250202T000000Z
+LOCATION:Brussels
+DTSTART:20250201T000000Z
+SUMMARY:FOSDEM
+UID:8e4a7ac6-a60a-4b71-be7f-27dfd7f9bf12@8e4a.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:open software,open science,open education
