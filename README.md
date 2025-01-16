@@ -7,6 +7,14 @@ See online : <https://open-models.github.io/open-calendar/>
 **The recommended use is to import the calendar into your personal calendar (Thunderbird, Google Calendar...) through the
 `calendar.ics` file : <https://raw.githubusercontent.com/Open-Models/open-calendar/refs/heads/main/calendar.ics>**
 
+## Contribute
+
+The most basic way to share your event on the calendar is through repository's
+[issues](https://github.com/Open-Models/open-calendar/issues).
+The event can then be integrated manually by a maintainer.
+
+If you have some programming skills, you can try your hand at improving this piece of code. Experimental project.
+
 ## Installation
 
 First, download the repository locally.
