@@ -21,7 +21,16 @@ SUMMARY:FOSDEM
 UID:8e4a7ac6-a60a-4b71-be7f-27dfd7f9bf12@8e4a.org
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:open software,open science,open education
+CATEGORIES:digital commons
+DESCRIPTION:Le rendez-vous mensuel dédié aux communs des tiers-lieux. Présentations\, formations\, ateliers de co-construction\, les formats sont divers et se veulent les plus ouverts en fonction des besoins de chacun.\n\nChaque 1er lundi du mois\, le programme est construit par les personnes qui développent\, s'intéressent et partagent des ressources libres. Ce temps d'échange permet aux communs de présenter leurs solutions et permet aux tiers-lieux de les découvrir\, de s'informer ou de se former.
+DTEND:20250203T000000Z
+LOCATION:https://communlundi.tiers-lieux.org/
+DTSTART:20250203T000000Z
+SUMMARY:Comm'un Lundi
+UID:2cb6454b-10ce-4559-96e4-cfc30b124ea8@2cb6.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open science,open education,open software
 DESCRIPTION:Site évènement: https://alposs.fr/\n\nNouvel événement de l’écosystème open source local et régional\, AlpOSS « Alpes Open Source Software » s’adresse aux éditeurs\, prestataires de services\, collectivités locales et utilisateurs d’open source au sens large. La conférence a pour but de créer du lien entre les fournisseurs de technologies open source innovantes et les utilisateurs\, d’échanger autour des modèles de collaboration et modèles d’affaires\, et de structurer et dynamiser l’écosystème local.
 DTEND:20250220T190000Z
 LOCATION:Mairie d'Échirolles & https://video.echirolles.fr/w/qg5y3eQdzGTdUp4RXh7NcX
