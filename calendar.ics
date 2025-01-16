@@ -3,20 +3,20 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 CATEGORIES:open science,open software
-DESCRIPTION:In his talk "Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities"\, Johan Linåker will present a study\, commissioned by the European Commission\, which delves into the structural configurations and strategic utilisation of Open Source Programme Offices (OSPOs) within the public sector domain\, with a specific focus on OSPOs within European Union (EU) member states\, Norway\, Liechtenstein\, and Iceland. The investigation is based on interviews conducted with 18 OSPO representatives across 16 cases. The study classifies OSPOs into six distinct archetypes\, providing insights into their organisational structures\, responsibilities\, and contributions to the adoption of Open Source Software (OSS). It also highlights the challenges encountered by OSPOs and provides recommendations for both policymakers and practitioners.
+DESCRIPTION:Event Website: https://os.helmholtz.de/en/events/online-seminars/70th-online-seminar/\n\nIn his talk "Public Sector Open Source Program Offices - Archetypes for how to Grow (Common) Institutional Capabilities"\, Johan Linåker will present a study\, commissioned by the European Commission\, which delves into the structural configurations and strategic utilisation of Open Source Programme Offices (OSPOs) within the public sector domain\, with a specific focus on OSPOs within European Union (EU) member states\, Norway\, Liechtenstein\, and Iceland. The investigation is based on interviews conducted with 18 OSPO representatives across 16 cases. The study classifies OSPOs into six distinct archetypes\, providing insights into their organisational structures\, responsibilities\, and contributions to the adoption of Open Source Software (OSS). It also highlights the challenges encountered by OSPOs and provides recommendations for both policymakers and practitioners.
 DTEND:20250122T140000Z
 LOCATION:https://gfz-potsdam-de.zoom-x.de/meeting/register/u5EkcO-qrTorHtNVKBBBu_n2v9ajThXc9w-G
 DTSTART:20250122T130000Z
 SUMMARY:Public Sector Open Source Program Offices
-UID:b2e6571e-ac66-4f8f-8d85-22ff13919c62@b2e6.org
+UID:5dddfd71-2bd3-4146-b6a1-d2211dab4c53@5ddd.org
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:open education,open science,open software
+CATEGORIES:open science,open education,open software
 DESCRIPTION:Site évènement: https://alposs.fr/\n\nNouvel événement de l’écosystème open source local et régional\, AlpOSS « Alpes Open Source Software » s’adresse aux éditeurs\, prestataires de services\, collectivités locales et utilisateurs d’open source au sens large. La conférence a pour but de créer du lien entre les fournisseurs de technologies open source innovantes et les utilisateurs\, d’échanger autour des modèles de collaboration et modèles d’affaires\, et de structurer et dynamiser l’écosystème local.
 DTEND:20250220T190000Z
 LOCATION:Mairie d'Échirolles & https://video.echirolles.fr/w/qg5y3eQdzGTdUp4RXh7NcX
 DTSTART:20250220T073000Z
 SUMMARY:🇫🇷 AlpOSS
-UID:aeda6124-6e38-4683-9096-af7197b6ddf9@aeda.org
+UID:53e98f03-9ee6-4015-b5c6-c1d6ffd07945@53e9.org
 END:VEVENT
 END:VCALENDAR
