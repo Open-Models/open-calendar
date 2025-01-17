@@ -12,6 +12,15 @@ SUMMARY:Public Sector Open Source Program Offices
 UID:6cb0ffef-b19d-4e1b-b453-5df03a85f481@6cb0.org
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:open science,open software
+DESCRIPTION:Event website: https://www.softwareheritage.org/2024/11/19/software-heritage-2025-symposium-summit/\n\nThe annual Software Heritage Summit and Symposium\, set to take place on January 29\, 2025\, at UNESCO Headquarters in Paris\, provides a unique platform for academia\, industry\, and policymakers to discuss critical issues at the intersection of software\, artificial intelligence\, and society.\n\nThis year’s Symposium focuses on four key themes: Cybersecurity and regulation\, Open and transparent AI\, Open Science\, Cultural preservation and education
+DTEND:20250129T000000Z
+LOCATION:Hybrid\, Paris
+DTSTART:20250129T000000Z
+SUMMARY:Software Heritage Symposium and Summit
+UID:7b0921d4-27a4-4091-bd4e-75a8242fc219@7b09.org
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:open software
 DESCRIPTION:Event website (with online registrations): https://summit.openforumeurope.org\n\nThe EU Open Source Policy Summit is an invite-only event\, bringing together a mix of  policymakers\, business leaders\, academics and community members\, ensuring a fruitful exchange of views and a wide representation of stakeholders.\n\nThe Summit provides an informal setting for the audience to meet and learn from one another. We pride ourselves on providing the best possible hallway-track\, allowing guests to cherry-pick sessions after setting up meetings and making new connections.\n\nThe EU Open Source Policy Summit is Europe’s premier event for high-level open source policy discussions. This Summit provides a platform for the new EU administration to engage in meaningful dialogue with the European open source community. As authorities on the innovation model powering the digital domain\, our speakers will explore ways to harness open source and global collaborative innovation to establish a competitive and sovereign digital environment. The event will feature insights from leading policymakers\, OSS business leaders\, software stewards\, advocates\, and academics. Together\, they will share their perspectives and propose strategies for shaping the digital policy framework over the next five years.
 DTEND:20250131T170000Z
