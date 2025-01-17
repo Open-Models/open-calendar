@@ -102,6 +102,15 @@ SUMMARY:Open Source Summit Europe
 UID:2c39272c-36ce-44e0-ad62-798d5d471cc0@2c39.org
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:open education,open science,open software
+DESCRIPTION:Site évènement : https://libreabc.ch\n\nLibreABC est un événement qui se déroule sur une journée et qui propose des ateliers\, conférences et débats autour des logiciels et de la culture du libre dans le monde des archives\, des bibliothèques et des centres de documentation.\n\nUn évènement en collaboration entre le canton de Genève\, hautes-école et université.
+DTEND:20250909T000000Z
+LOCATION:Geneva
+DTSTART:20250909T000000Z
+SUMMARY:Journée des logiciels libres en Archives\, Bibliothèques et Centres de documentation
+UID:e3f514d2-b82f-4832-8ec3-7e84ad330449@e3f5.org
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:open science
 DESCRIPTION:Event website: https://www.open-science-conference.eu/\n\nThe Open Science Conference is an annual international conference dedicated to the Open Science movement. It provides a unique forum for researchers\, data stewards\, librarians\, practitioners\, infrastructure providers\, policy makers\, and other important stakeholders to discuss the latest and future developments in Open Science. In 2025\, the conference returns to its roots and takes place as a face-to-face event in Hamburg again.\n\nThis year’s conference will have a special focus on the intersection between Open Science and AI. The rapid integration of artificial intelligence and corresponding tools into scientific research poses both new challenges but also opportunities for Open Science practices. This requires a reflection on how this can be aligned with transparency\, accessibility\, reproducibility\, and reusability as core principles of Open Science.
 DTEND:20251009T000000Z
