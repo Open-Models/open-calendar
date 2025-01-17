@@ -5,6 +5,8 @@
 - Location: Hamburg, Germany
 - Categories: open science
 
+Event website: https://www.open-science-conference.eu/
+
 The Open Science Conference is an annual international conference dedicated to the Open Science movement. It provides a
 unique forum for researchers, data stewards, librarians, practitioners, infrastructure providers, policy makers, and
 other important stakeholders to discuss the latest and future developments in Open Science. In 2025, the conference
