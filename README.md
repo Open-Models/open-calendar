@@ -42,7 +42,7 @@ Description of your event.
 Add the event using:
 
 ```bash
-python -m git_calendar --add [event.md]
+python -m git_calendar --add event1.md [event2.md ...]
 ```
 
 See help menu for more options:
