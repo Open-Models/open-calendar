@@ -13,6 +13,15 @@ UID:6cb0ffef-b19d-4e1b-b453-5df03a85f481@6cb0.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:open software
+DESCRIPTION:Event website (with online registrations): https://summit.openforumeurope.org\n\nThe EU Open Source Policy Summit is an invite-only event\, bringing together a mix of  policymakers\, business leaders\, academics and community members\, ensuring a fruitful exchange of views and a wide representation of stakeholders.\n\nThe Summit provides an informal setting for the audience to meet and learn from one another. We pride ourselves on providing the best possible hallway-track\, allowing guests to cherry-pick sessions after setting up meetings and making new connections.\n\nThe EU Open Source Policy Summit is Europe’s premier event for high-level open source policy discussions. This Summit provides a platform for the new EU administration to engage in meaningful dialogue with the European open source community. As authorities on the innovation model powering the digital domain\, our speakers will explore ways to harness open source and global collaborative innovation to establish a competitive and sovereign digital environment. The event will feature insights from leading policymakers\, OSS business leaders\, software stewards\, advocates\, and academics. Together\, they will share their perspectives and propose strategies for shaping the digital policy framework over the next five years.
+DTEND:20250131T170000Z
+LOCATION:Hybrid\, Brussels & online
+DTSTART:20250131T080000Z
+SUMMARY:EU Open Source Policy Summit
+UID:4a3e1abd-3910-47eb-8e5c-0936a1e7129f@4a3e.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software
 DESCRIPTION:Event website: https://fosdem.org/2025/\n\nFOSDEM is a two-day event organised by volunteers to promote the widespread use of free and open source software.\n\nUsually taking place in the beautiful city of Brussels (Belgium)\, FOSDEM is widely recognised as the best such conference in Europe. What is FOSDEM?\n\nFOSDEM is a free and non-commercial event organised by the community for the community.
 DTEND:20250202T000000Z
 LOCATION:Brussels
@@ -30,7 +39,7 @@ SUMMARY:Comm'un Lundi
 UID:2cb6454b-10ce-4559-96e4-cfc30b124ea8@2cb6.org
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:open science,open education,open software
+CATEGORIES:open education,open software,open science
 DESCRIPTION:Site évènement: https://alposs.fr/\n\nNouvel événement de l’écosystème open source local et régional\, AlpOSS « Alpes Open Source Software » s’adresse aux éditeurs\, prestataires de services\, collectivités locales et utilisateurs d’open source au sens large. La conférence a pour but de créer du lien entre les fournisseurs de technologies open source innovantes et les utilisateurs\, d’échanger autour des modèles de collaboration et modèles d’affaires\, et de structurer et dynamiser l’écosystème local.
 DTEND:20250220T190000Z
 LOCATION:Mairie d'Échirolles & https://video.echirolles.fr/w/qg5y3eQdzGTdUp4RXh7NcX
@@ -64,6 +73,33 @@ LOCATION:Paris
 DTSTART:20250617T000000Z
 SUMMARY:OW2 con'25
 UID:88ad5e0c-1c1e-4f4a-b717-44e40a5c4f8a@88ad.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software
+DESCRIPTION:Event Website: https://events.linuxfoundation.org/open-source-summit-north-america/\n\nOpen Source Summit (formerly LinuxCon) is a name for a series of annual conventions organized each year since 2009 by the Linux Foundation. The first LinuxCon took place in North America. Linux Foundation started organizing similar events in Europe and Japan.\n\nApart from keynotes given by some high-profile Linux people (such as Linus Torvalds or Greg Kroah-Hartman in 2009)\, Open Source Summit is increasingly used as a platform for open source thought leaders\, influencers\, hiring managers\, professionals\, and developers in Information technology to talk about their plans for the technological landscape and announce major news.\n\nSrc: Wikipédia
+DTEND:20250625T000000Z
+LOCATION:Denver
+DTSTART:20250623T000000Z
+SUMMARY:Open Source Summit America
+UID:3e80b0cb-47b6-4dae-9969-514c6596baa5@3e80.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software
+DESCRIPTION:Event Website: https://events.linuxfoundation.org/open-source-summit-europe/\n\nOpen Source Summit (formerly LinuxCon) is a name for a series of annual conventions organized each year since 2009 by the Linux Foundation. The first LinuxCon took place in North America. Linux Foundation started organizing similar events in Europe and Japan.\n\nApart from keynotes given by some high-profile Linux people (such as Linus Torvalds or Greg Kroah-Hartman in 2009)\, Open Source Summit is increasingly used as a platform for open source thought leaders\, influencers\, hiring managers\, professionals\, and developers in Information technology to talk about their plans for the technological landscape and announce major news.\n\nSrc: Wikipédia
+DTEND:20250827T000000Z
+LOCATION:Amsterdam
+DTSTART:20250825T000000Z
+SUMMARY:Open Source Summit Europe
+UID:2c39272c-36ce-44e0-ad62-798d5d471cc0@2c39.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open science
+DESCRIPTION:The Open Science Conference is an annual international conference dedicated to the Open Science movement. It provides a unique forum for researchers\, data stewards\, librarians\, practitioners\, infrastructure providers\, policy makers\, and other important stakeholders to discuss the latest and future developments in Open Science. In 2025\, the conference returns to its roots and takes place as a face-to-face event in Hamburg again.\n\nThis year’s conference will have a special focus on the intersection between Open Science and AI. The rapid integration of artificial intelligence and corresponding tools into scientific research poses both new challenges but also opportunities for Open Science practices. This requires a reflection on how this can be aligned with transparency\, accessibility\, reproducibility\, and reusability as core principles of Open Science.
+DTEND:20251009T000000Z
+LOCATION:Hamburg\, Germany
+DTSTART:20251008T000000Z
+SUMMARY:The international Open Science Conference
+UID:45181765-7888-46b0-a070-ae484f19084b@4518.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:open science
