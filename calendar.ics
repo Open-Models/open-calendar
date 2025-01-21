@@ -13,6 +13,15 @@ UID:6cb0ffef-b19d-4e1b-b453-5df03a85f481@6cb0.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:open science,open software
+DESCRIPTION:Event website: https://investinopen.civicrm.org/civicrm/event/register?id=57&reset=1\n\nOver the past six months\, IOI has been conducting a study to better understand the research software infrastructure landscape. This study explored critical connections between infrastructure services\, identified gaps and vulnerabilities\, and highlighted success factors for advancing sustainability and resilience in the ecosystem. Through a combination of desk research\, stakeholder interviews\, and analysis\, IOI has developed a robust understanding of what is most needed to support and strengthen the research software ecosystem.
+DTEND:20250123T180000Z
+LOCATION:Online
+DTSTART:20250123T160000Z
+SUMMARY:Infrastructure to Further Open Research Software
+UID:e94cc112-db96-477b-a8a6-08d2c70b187e@e94c.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open science,open software
 DESCRIPTION:Event website: https://www.softwareheritage.org/2024/11/19/software-heritage-2025-symposium-summit/\n\nThe annual Software Heritage Summit and Symposium\, set to take place on January 29\, 2025\, at UNESCO Headquarters in Paris\, provides a unique platform for academia\, industry\, and policymakers to discuss critical issues at the intersection of software\, artificial intelligence\, and society.\n\nThis year’s Symposium focuses on four key themes: Cybersecurity and regulation\, Open and transparent AI\, Open Science\, Cultural preservation and education
 DTEND:20250129T000000Z
 LOCATION:Hybrid\, Paris
