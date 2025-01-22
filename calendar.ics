@@ -21,7 +21,16 @@ SUMMARY:Infrastructure to Further Open Research Software
 UID:e94cc112-db96-477b-a8a6-08d2c70b187e@e94c.org
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:open science,open software
+CATEGORIES:open software
+DESCRIPTION:Site évènement : https://rencontreshivernalesdulibre.ch/\n\nQuoi ?\n\nLes Rencontres Hivernales du Libre\, c’est l’événement incontournable pour toutes celles et ceux qui vibrent pour le logiciel libre en Suisse ! Chaque année\, on se retrouve pour des moments de partage\, d’apprentissage\, et d’aventure\, avec au programme des ateliers\, des présentations captivantes et même des activités en extérieur pour profiter de l’hiver ! L’ambiance est à l’échange et à l’effervescence d’idées\, que ce soit pour développer tes projets ou simplement élargir tes horizons !\n\nQui ?\n\nC’est SwissLinux.org qui orchestre tout ça ! Depuis 2006\, cette association sans but lucratif rassemble des passionné·e·s de GNU/Linux et des fervents défenseurs du logiciel libre en Suisse. Leur équipe\, dynamique et super engagée\, anime une plateforme web\, organise des événements et fait tout pour sensibiliser et fédérer autour des valeurs du logiciel libre. Envie d’en savoir plus ? Fais un tour sur SwissLinux.org !
+DTEND:20250126T170000Z
+LOCATION:Saint-Cergue\, Suisse
+DTSTART:20250124T150000Z
+SUMMARY:Rencontres Hivernales du Libre
+UID:7353357d-34fc-46d7-bf8f-3b6016c4b1ba@7353.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software,open science
 DESCRIPTION:Event website: https://www.softwareheritage.org/2024/11/19/software-heritage-2025-symposium-summit/\n\nThe annual Software Heritage Summit and Symposium\, set to take place on January 29\, 2025\, at UNESCO Headquarters in Paris\, provides a unique platform for academia\, industry\, and policymakers to discuss critical issues at the intersection of software\, artificial intelligence\, and society.\n\nThis year’s Symposium focuses on four key themes: Cybersecurity and regulation\, Open and transparent AI\, Open Science\, Cultural preservation and education
 DTEND:20250129T000000Z
 LOCATION:Hybrid\, Paris
