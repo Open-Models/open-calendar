@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Prepare files for GitHub Pages
         run: |
@@ -24,15 +24,15 @@ jobs:
           cp website/calendar.js public/
 
       - name: Deploy to GitHub Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v4
 
       - name: Upload files to GitHub Pages
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
       - name: Publish GitHub Pages
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
 
       - name: Display GitHub Pages URL
         run: |
