@@ -66,7 +66,16 @@ SUMMARY:Comm'un Lundi
 UID:2cb6454b-10ce-4559-96e4-cfc30b124ea8@2cb6.org
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:open education,open software,open science
+CATEGORIES:open science
+DESCRIPTION:Event infomation: https://akademien-schweiz.ch/en/current/events/science-after-noon-open-science-meets-citizen-science\n\nEvent probably in German.\n\nThe event will highlight the synergies between Open Science and Citizen Science. To kick things off\, Olivia Denk and Tizian Zumthurm will present the UNESCO recommendation on Open Science. They define Open Science as the principles of transparency\, accessibility and traceability in science and explain how Citizen Science involves the public in scientific projects.\n\nProject staff from InfoFlora\, Long Covid Switzerland and the Zurich Central Library will briefly present their Citizen Science projects.\n\nThe subsequent panel discussion will address the following questions: How can citizen science projects benefit from open science? What best practices are there for combining both approaches? Finally\, the audience is invited to ask questions and actively participate in the dialogue.
+DTEND:20250211T121500Z
+LOCATION:Hybrid\, Bern
+DTSTART:20250211T111500Z
+SUMMARY:🇨🇭 Science after Noon: Open Science Meets Citizen Science
+UID:94ffb67e-c35a-4352-91ac-4c0b800a8598@94ff.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software,open science,open education
 DESCRIPTION:Site évènement: https://alposs.fr/\n\nNouvel événement de l’écosystème open source local et régional\, AlpOSS « Alpes Open Source Software » s’adresse aux éditeurs\, prestataires de services\, collectivités locales et utilisateurs d’open source au sens large. La conférence a pour but de créer du lien entre les fournisseurs de technologies open source innovantes et les utilisateurs\, d’échanger autour des modèles de collaboration et modèles d’affaires\, et de structurer et dynamiser l’écosystème local.
 DTEND:20250220T190000Z
 LOCATION:Mairie d'Échirolles & https://video.echirolles.fr/w/qg5y3eQdzGTdUp4RXh7NcX
@@ -102,13 +111,58 @@ SUMMARY:Open Education Week
 UID:b58401e7-60eb-43aa-a3c3-4c10a47d0e52@b584.org
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:open science,open software
+CATEGORIES:Open science
+DESCRIPTION:Event website: https://www.ifla.org/events/open-science-policies-and-the-role-of-libraries-initiatives-from-china-and-indonesia/\n\nMany countries have implemented open science policies and initiatives that support researcher collaboration\, publishing reform\, and investment in open infrastructure to ensure everyone benefits from scientific knowledge. The UNESCO Recommendation on Open Science\, announcements at G20\, and other initiatives at the national level around the world demonstrate how open science has become a high-profile goal. Libraries are essential to providing the necessary infrastructure and skills to make open science and open access a reality\, and many libraries are involved in these initiatives already. At the same time\, many other countries are currently developing policies\, providing opportunities for libraries to get involved\, and to learn from these experience.\n\nDuring this webinar\, initiatives from the Asia-Oceania region in China and Indonesia will be presented. These include initiatives that promote international collaboration\, research data sharing\, and open access publishing.
+DTEND:20250304T090000Z
+LOCATION:Online
+DTSTART:20250304T080000Z
+SUMMARY:Open Science policies and the role of libraries: China and Indonesia
+UID:3669cb57-2321-43ed-8c32-f8215d158a95@3669.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software,open science
 DESCRIPTION:Event registration & information: https://help.openalex.org/hc/en-us/articles/24428492324631-Webinars\n\n[ description coming soon]
 DTEND:20250306T180000Z
 LOCATION:Online
 DTSTART:20250306T170000Z
 SUMMARY:OpenAlex serie: Innovations Enabled by OpenAlex
 UID:8a290680-a863-4811-8fb4-cf6494580192@8a29.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software,open science,open data
+DESCRIPTION:Information évènement: https://sygefor.reseau-urfist.fr/#/training?q=%7B%22keywords%22:%22SNDU2025%22%7D\n\nDu 17 au 21 mars 2025\, le Réseau des Urfist vous propose une série\, intégralement à distance\, de rencontres\, ateliers\, formations et webinaires pour outiller vos recherches. A travers ce programme\, les 7 URFIST vous invitent à découvrir ou compléter vos connaissances sur OpenRefine\, Stylo\, les data papers\, Osidian\, Heurist\, OpenStreetMap\, Mastodon\, Osint ou encore Lodex.
+DTEND:20250321T000000Z
+LOCATION:Online
+DTSTART:20250317T000000Z
+SUMMARY:🇫🇷 Semaine Numérique des URFIST
+UID:f2761698-4cf4-4d55-a0b1-f2dbe35e44bd@f276.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open education
+DESCRIPTION:Site évènement: https://journee-du-libre-educatif.forge.apps.education.fr/\n\nLa Journée du Libre Éducatif a pour objectif d’acculturer aux communs numériques et de soutenir l’écosystème de celles et ceux qui créent et partagent des logiciels et ressources éducatives libres utiles à la communauté scolaire.\n\n« Pour un numérique inclusif\, responsable et durable »\, tel sera le thème de la 4e édition de la Journée du Libre Éducatif qui se déroulera le vendredi 4 avril 2025 au lycée Carnot de Bruay-la-Buissière (Pas-de-Calais)\, en référence au remarquable projet NIRD porté par l'établissement.
+DTEND:20250404T000000Z
+LOCATION:Bruay-la-Buissière (Pas-de-Calais)
+DTSTART:20250404T000000Z
+SUMMARY:Journée du Libre Éducatif
+UID:98a4b6ca-e133-4767-a247-a289e76c8ec9@98a4.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open education
+DESCRIPTION:Event Website : https://www.flvc.org/oersummit\n\nThe theme of this year's Summit is "Engage and Empower." Join librarians\, educators\, instructional designers\, students\, and OER professionals from across Florida and the U.S. as we explore existing trends\, look towards innovative directions\, and discover how OER positively impacts students\, faculty\, and institutions.\n\nEnd call for proposal: 28/02
+DTEND:20250522T000000Z
+LOCATION:Online
+DTSTART:20250521T000000Z
+SUMMARY:Florida OER Summit
+UID:e1ed1f81-c50c-4d53-8cfe-f8c132936c87@e1ed.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Open Hardware
+DESCRIPTION:Event information: http://2025.oshwa.org/\n\nSince 2010\, the Open Source Hardware Association - https://www.oshwa.org/\, a 501(c)(3) not for profit charity\, has hosted the Open Hardware Summit- a comprehensive conference for the open hardware community and the ever changing open source hardware movement.\n\nSpeakers include world renowned leaders from industry\, academia\, the arts and maker community. Talks cover a wide range of subjects from electronics\, mechanics to related fields such as digital fabrication\, creative tech\, fashion technology\, self-quantification devices\, and IP law. As a microcosm of the Open Source Hardware community\, the Open Hardware Summit provides an annual\, friendly forum for the community.\n\nThe Open hardware Summit is a place for anyone who enjoys making and sharing physical things in any way\, even if you aren't open hardware certified. We're interested in expanding the community of like-minded people. Registration : https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499?aff=oddtdtcreator\n\nWant to speak at Open Hardware Summit? Our call for proposals for talks\, workshops\, and exhibitors is open!\n\nSubmit a proposal : https://docs.google.com/forms/d/e/1FAIpQLSeiuWtUClyQ2Aj-CBFwZacpfL9xxgG_ZA8ImF0SF9sT2-sqKA/viewform
+DTEND:20250531T000000Z
+LOCATION:Hybrid\, The University of Edinburgh
+DTSTART:20250530T000000Z
+SUMMARY:Open Hardware Summit 2025
+UID:ce1a8304-c232-4e9e-bcbf-4d2c1ed279c9@ce1a.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:open software
