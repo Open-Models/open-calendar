@@ -147,6 +147,42 @@ SUMMARY:Journée du Libre Éducatif
 UID:98a4b6ca-e133-4767-a247-a289e76c8ec9@98a4.org
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:open software
+DESCRIPTION:Event information : https://fosstodon.org/@pyOpenSci/114393889463965123\n\nWant to learn more about participating in open source ? Join pyOpenSci on May 5 for a free ONLINE session with @pavithraes as she shares her journey into the OSS world! 💡
+DTEND:20250505T170000Z
+LOCATION:Online
+DTSTART:20250505T160000Z
+SUMMARY:pyOpenSci May Community Call : Pavithra Eswaramoorthy Open Source Journey
+UID:179f0a00-6c3f-4f3c-8260-a55bdbde2b53@179f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open hardware
+DESCRIPTION:Information évènement : https://www.linkedin.com/events/webinaire-lesmat-riauxdel-apr-s7323000776031662080/about/\n\nCréer les matériaux du futur en open source ? Faire de la recherche et développement dans des associations qui agissent pour le bien commun ?\n\nLes associations Atelier CIRCULR (Strasbourg) et Artisanat Végétal (Nantes) vous invitent à une discussion autour de leurs techniques et de leur vision de l'innovation pour la transition écologique de nos matières.\n\nRejoignez-nous pour en savoir plus sur la transformation de feuilles de thé usagées en plaques rigides\, et sur la fabrication de bâche végétale étanche 100% biosourcée !
+DTEND:20250507T160000Z
+LOCATION:https://cnrs.zoom.us/j/92791153102?pwd=quqbiveWNkmfCAa8CX87YIYAbck5Hg.1
+DTSTART:20250507T150000Z
+SUMMARY:Les matériaux de l'après-pétrole et l'open source
+UID:04685d05-fcfb-48ce-b7e9-e7114dcaa409@0468.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open science
+DESCRIPTION:Information évènement : https://operasfr.hypotheses.org/1375\n\nVenez découvrir  \, l’outil de traduction collaborative d’ \, lors d’une formation en ligne d’une heure\, le 12 mai à 10h\, animée par Susanna Fiorini et Marina Cortés Aldaz. Cette session interactive vous permettra de prendre en main la plateforme\, de comprendre ses objectifs\, et d’explorer son potentiel pour renforcer la collaboration scientifique à l’échelle européenne.\n\nQu’est-ce que Mondaecus ?\n\nMondaecus est une plateforme multilingue développée par l’  dans le cadre d’OPERAS\, conçue pour faciliter la traduction collaborative de contenus scientifiques. Elle permet à plusieurs traducteurs de travailler simultanément sur un même projet\, tout en intégrant des outils de traduction automatique pour accélérer le processus.
+DTEND:20250512T090000Z
+LOCATION:Online
+DTSTART:20250512T080000Z
+SUMMARY:Formation OPERAS – FR Introduction à Mondaecus
+UID:7385d310-d543-4be2-b5af-c2da8378678a@7385.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open software
+DESCRIPTION:Site évènement : https://www.rpll.fr/\n\nLes Rencontres Professionnelles du Logiciel Libre (RPLL) sont organisées par   (Ploss Auvergne Rhône-Alpes) qui regroupe une quarantaine d’Entreprises du Numérique Libre (ENL) de la région Auvergne-Rhône-Alpes. Ces acteurs du Libre et de l’Open-Source ont pour objectif de favoriser la "coopétition"\, de développer\, structurer et solidifier un écosystème dynamique.\n\nLe salon s’adresse à toutes les entreprises\, collectivités\, associations\, universités et écoles qui trouveront des réponses à l’ensemble de leurs besoins numériques\, techniques et fonctionnels.\n\nPendant le salon\, vous accéderez à des témoignages de clients et des ateliers proposés par les exposants des RPLL ! Venez rencontrer vos pairs et échanger sur des problématiques communes ! Venez retrouver des prestataires locaux et nationaux de l’open source et du logiciel libre !
+DTEND:20250515T160000Z
+LOCATION:Lyon
+DTSTART:20250515T070000Z
+SUMMARY:Rencontres Professionnelles du Logiciel Libre
+UID:154c14db-f3ce-4b1f-aa00-e32ed154c7d3@154c.org
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:open education
 DESCRIPTION:Event Website : https://www.flvc.org/oersummit\n\nThe theme of this year's Summit is "Engage and Empower." Join librarians\, educators\, instructional designers\, students\, and OER professionals from across Florida and the U.S. as we explore existing trends\, look towards innovative directions\, and discover how OER positively impacts students\, faculty\, and institutions.\n\nEnd call for proposal: 28/02
 DTEND:20250522T000000Z
@@ -165,6 +201,15 @@ SUMMARY:Open Hardware Summit 2025
 UID:ce1a8304-c232-4e9e-bcbf-4d2c1ed279c9@ce1a.org
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:open science
+DESCRIPTION:Information évènement: https://www.informationskompetenz.ch/fr/evenements/journee-romande\n\nThématique 2025 : "Motiver pour mieux former".\n\nLa Journée romande des formateur·trices en compétences informationnelles dans les bibliothèques des hautes écoles est un événement annuel organisé pour la première fois en 2024. Rejoignez-nous pour une journée passionnante dédiée à l'échange de connaissances et d'expériences dans le domaine des compétences informationnelles. Ne manquez pas cette opportunité de renforcer votre expertise et de tisser des liens avec d'autres professionnel·les du domaine.
+DTEND:20250603T160000Z
+LOCATION:Genève
+DTSTART:20250603T080000Z
+SUMMARY:Journée romande des formateurs en compétences informationnelles dans les bibliothèques des hautes écoles
+UID:ee92e1c5-753b-4095-a8ed-fb9412a56b42@ee92.org
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:open software
 DESCRIPTION:Event information: https://www.un.org/digital-emerging-technologies/content/open-source-week-2025\n\nUN Open Source Week 2025 facilitates global dialogue and collaboration on open source\, digital public infrastructure (DPI)\, and the development of innovative solutions to global challenges. Since its inception in 2023\, the event has captured significant international attention\, reflecting strong demand for a UN-led forum on open source and digital cooperation.\n\nThis year’s conference expands to a multi-day format from 16–20 June 2025 that will include our UN Tech Over on 16 – 17 June\, the return of OSPOs for Good on 18 June\, Digital Public Infrastructure (DPI Day) on 19 June\, and Side Events on 20 June. This evolved program will offer increased opportunities for ideation\, co-creation\, and meaningful networking in response to the ecosystem's growing demand for deeper engagement.\n\nUN Open Source Week will feature a full week of networking\, insightful panels\, a hackathon\, and breakout sessions exploring topics related to open source\, digital public infrastructure\, problem solving\, and digital cooperation. This is an opportunity to learn from and connect with fellow industry professionals while deepening understanding of open source and its global potential.
 DTEND:20250620T000000Z
@@ -181,6 +226,15 @@ LOCATION:Paris
 DTSTART:20250617T000000Z
 SUMMARY:OW2 con'25
 UID:88ad5e0c-1c1e-4f4a-b717-44e40a5c4f8a@88ad.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open models,open software
+DESCRIPTION:Event information: https://ngi.eu/ngi-forum25/\n\nThe NGI Forum 2025 will focus on the building of an Open Internet Stack as conducive to European digital sovereignty and users’ empowerment. It will serve as a key platform to bring together innovators\, policymakers\, researchers\, and industry leaders. The Forum will provide an opportunity to reflect on major developments in digital sovereignty\, open internet infrastructure\, and digital commons\, while fostering collaboration between diverse stakeholders shaping Europe’s digital future.\n\nThe NGI Forum 2025 is the flagship event of the European Commission’s Next Generation Internet (NGI) initiative. It brings together some of Europe’s top Internet innovators at work to build an Internet of Trust\, empowering end-users with more choice and control over their data and digital identity.
+DTEND:20250620T000000Z
+LOCATION:Brussels & Online
+DTSTART:20250619T000000Z
+SUMMARY:NGI Forum 2025
+UID:017325b3-c5c8-45b5-947a-6d5f8a15880a@0173.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:open software
@@ -219,6 +273,15 @@ SUMMARY:The international Open Science Conference
 UID:45181765-7888-46b0-a070-ae484f19084b@4518.org
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:open models
+DESCRIPTION:Event information: https://2025.allthingsopen.org/\n\nAfter all these years\, open source skills are more important and sought after than ever.\n\nMore than anything\, ATO is an educational conference where attendees learn about new technologies and topics\, and it’s always been that way. The goal is for attendees to leave having learned something or been made aware of something new.
+DTEND:20251014T000000Z
+LOCATION:Raleigh\, USA
+DTSTART:20251012T000000Z
+SUMMARY:All Things Open
+UID:4a107b89-ff63-4f31-992f-7d9d6e53a98d@4a10.org
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:open science
 DESCRIPTION:Open Access Week is an opportunity for the academic and research community to continue to learn about the potential benefits of Open Access\, to share what they’ve learned with colleagues\, and to help inspire wider participation in helping to make Open Access a new norm in scholarship and research.\n\nOpen Access to information – the free\, immediate\, online access to the results of scholarly research\, and the right to use and re-use those results as you need – has the power to transform the way research and scientific inquiry are conducted. It has direct and widespread implications for academia\, medicine\, science\, industry\, and for society as a whole.\n\nOpen Access Week is an invaluable chance to connect the global momentum toward the open sharing of knowledge with the advancement of policy changes and the importance of social issues affecting people around the world. The event is celebrated by individuals\, institutions and organizations around the world.
 DTEND:20251026T000000Z
@@ -226,5 +289,14 @@ LOCATION:https://www.openaccessweek.org/
 DTSTART:20251020T000000Z
 SUMMARY:Open Access Week
 UID:9ea312b5-776c-4015-b40c-642c05865116@9ea3.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:open education
+DESCRIPTION:Event information : https://openeducationconference.org/\n\nThe Open Education Conference (“OpenEd”) is an annual convening for sharing and learning about open educational resources\, open pedagogy\, and open education initiatives. This engaging event brings together over 1\,600 educators and open education advocates in-person and online to collaborate\, support\, and drive strategies for education that are accessible\, affordable\, and reflective of the learners they serve.\n\nThe Open Education Conference community has gathered annually since 2004—originally in person\, then online\, and now as an inclusive hybrid event. Deeply rooted in the community\, the conference is led by a community-elected   and driven by a shared  . Conference operations are currently housed within SPARC.
+DTEND:20251030T000000Z
+LOCATION:Denver & Online
+DTSTART:20251028T000000Z
+SUMMARY:Open Education Conference
+UID:b4771d76-ddd0-4db8-9440-a0a39b883f19@b477.org
 END:VEVENT
 END:VCALENDAR
