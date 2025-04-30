@@ -6,9 +6,10 @@ def main():
     parser = argparse.ArgumentParser(description="Manage your git-based calendar.")
     parser.add_argument(
         "-a", "--add",
+        nargs="+",
         metavar="FILENAME",
         type=str,
-        help="Add an event from the specified markdown file."
+        help="Add events from the specified list of markdown files."
     )
     parser.add_argument(
         "--regenerate",
@@ -29,8 +30,9 @@ def main():
     calendar = GitCalendar(args.ics_file)
 
     if args.add:
-        print(f"Adding event from file: {args.add}")
-        calendar.add_event(args.add)
+        for event_mdfile in args.add:
+            print(f"Adding event from file: {event_mdfile}")
+            calendar.add_event(event_mdfile)
 
     if args.regenerate:
         print("Regenerating calendar file.")
